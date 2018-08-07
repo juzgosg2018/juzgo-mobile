@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>812036196462-r9jdjjbf78610q7os1p7rf9l49onk7qj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.812036196462-r9jdjjbf78610q7os1p7rf9l49onk7qj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC3a_GXhsHRc4x_aFIwqGKv1bVFUO-jxiE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>812036196462</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>sg.com.juzgo</string>
+	<key>PROJECT_ID</key>
+	<string>juzgosg-1e65c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>juzgosg-1e65c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:812036196462:ios:069fdd72402255d7</string>
+	<key>DATABASE_URL</key>
+	<string>https://juzgosg-1e65c.firebaseio.com</string>
+</dict>
+</plist>

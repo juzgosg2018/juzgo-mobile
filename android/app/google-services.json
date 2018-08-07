@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "812036196462",
+    "firebase_url": "https://juzgosg-1e65c.firebaseio.com",
+    "project_id": "juzgosg-1e65c",
+    "storage_bucket": "juzgosg-1e65c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812036196462:android:069fdd72402255d7",
+        "android_client_info": {
+          "package_name": "sg.com.juzgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812036196462-903v20eqn8jpa544o6n4tupiie0nfrtj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCga7XqKhxmsTTADg-Q3VL_m21wWwNIEs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

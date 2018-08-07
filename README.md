@@ -1,8 +1,24 @@
-# juzgo_mobile
+# JuzGo Mobile App
 
-A new Flutter project.
+Run the app
 
-## Getting Started
+```
+flutter run
+```
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+#### Legend
+- [ ] Yet To Be Done
+
+- [x] Waiting For Approval
+
+~~-[x] Waiting For Approval/ DONE~~
+
+---------------------
+
+### Feature
+
+---------------------
+
+- [ ] #1 (iOS/Android) Setup firebase for Android and iOS
+- [ ] #2 (iOS/Android) Creae login and logout
+- [ ] #3 (iOS/Android) Create Challenge form for admin
