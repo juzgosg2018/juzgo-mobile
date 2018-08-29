@@ -6,6 +6,11 @@ Run the app
 flutter run
 ```
 
+#### Important
+*IF YOU ARE USING XCODE 10*
+
+Change Workspace settings to use Legacy Build System instead of New Build System
+
 #### Dependencies
 Cocoapods 
 ```
