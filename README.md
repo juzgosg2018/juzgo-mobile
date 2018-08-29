@@ -1,21 +1,23 @@
 # JuzGo Mobile App
 
-Run the app
-
-```
-flutter run
-```
-
 #### Important
 *IF YOU ARE USING XCODE 10*
 
 Change Workspace settings to use Legacy Build System instead of New Build System
 
-#### Dependencies
+### Getting started
+
+#### Install Dependencies (iOS)
 Cocoapods 
 ```
 $ cd ios 
 $ pod install
+```
+
+Run the app
+
+```
+$ flutter run
 ```
 
 #### Legend
