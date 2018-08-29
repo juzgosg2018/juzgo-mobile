@@ -6,6 +6,13 @@ Run the app
 flutter run
 ```
 
+#### Dependencies
+Cocoapods 
+```
+$ cd ios 
+$ pod install
+```
+
 #### Legend
 - [ ] Yet To Be Done
 
